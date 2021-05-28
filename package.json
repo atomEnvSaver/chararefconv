@@ -1,0 +1,22 @@
+{
+  "name": "chararefconv",
+  "version": "1.0.0",
+  "description": "character reference",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "mocha --reporter list test/mochatest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:atomEnvSaver/chararefconv.git"
+  },
+  "keywords": [
+    "character reference"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
