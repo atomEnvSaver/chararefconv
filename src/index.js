@@ -15,7 +15,6 @@ module.exports = {
           .replace(/>/g, '&gt;');
   },
 
-
   /**
    * Unescape special characters in the given string of html.
    *
