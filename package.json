@@ -1,6 +1,6 @@
 {
   "name": "chararefconv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "character reference",
   "main": "/src/index.js",
   "scripts": {
